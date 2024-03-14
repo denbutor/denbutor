@@ -11,7 +11,7 @@ So, when i was in 10 graduate in school we started to learn frontend web develop
 I became to learn it because i want to help a humanity.  
 
 ## Contact details  
-SQL
+```SQL
 CREATE TABLE Junior(
     user_id GUID PRIMARY KEY,
     username VARCHAR(50) NOT NULL,
@@ -20,15 +20,15 @@ CREATE TABLE Junior(
 );
 INSERT INTO users
 VALUES ('Denys Butorin', '01.01.2004', 'Ukraine, Chernivtsi'),
-    
+```    
 Email: denbutor@gmail.com  
 Telegram: https://t.me/licks_originally
 ## Education  
 
-- Chernivtsi National University, Computer Ingineering, bachelor degree (01.09.2021 - today)
+- Chernivtsi National University, Computer Ingineering (Computer Systems and Networks), Bachelor degree (01.09.2021 - today)
    
 ## Work experience  
-Worked as a promoter, courier, waiter, seller and tried to work on freelance as a web developer at school that gives me to find right solution of problems and capable to negotitate with people.  
+Worked as a promoter, courier, waiter, seller and tried to work on freelance as a web developer at school these jobs give me experience and understanding how to find right solution of problems and capable to negotitate with people.  
 
 
 ## Overview of technologies, that I am experienced in
@@ -42,8 +42,8 @@ Worked as a promoter, courier, waiter, seller and tried to work on freelance as 
 -
 - Other: *Git, SOLID, Code refactoring, Design Patterns, Docker, Linux, Adobe Illustartor, MagicalVoxel, Aseprite, FL studio*
 
-Languages: Ukrainian, English (graduated courses with B2 level)  
+Languages: Ukrainian, English (Intermediate - Upper-Intermediate)  
 
 ## Hobbies  
 
-🎵musician (rap, beats), 🎨designer (game graphics, web design, illustrations, covers), 🏀basketballer, 🏋🏻‍♀️gym, ⛰hiker
+Ping Pong, Gym
