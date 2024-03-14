@@ -1,31 +1,28 @@
 ## Cover letter
 
 I’m A 3rd year student of Chernivtsi National University, in the field of Computer Ingineering, namely computer systems and networks. Qualified in web development, database designing, graphic design and computer networks. 
-I`m into work, responsible, capable to be backend and frontend developer and can take responsibility to lead projects.
+I`m into work, responsible, capable to be backend and frontend developer and can take responsibility to lead the projects.
   
 ``I am looking for a good position``,  
 in company with creative and unusual ideas that I`ll implement!
 
 ❔ How I became really interested in programming?  
-So, my younger sisters was learning a multiplication table. It was so hard and not interesting for them. I decided to make a game with interactive and pretty UI, that will show a problem and possible answers. 
-As a result, they was playing it during all summer and learned a multiplicaton table!
-I`m learning different fields of programming from childhood and want to help other people to solve diferent problems with my apps.  
+So, when i was in 10 graduate in school we started to learn frontend web development and it was really interesting for me! Teacher propose me to take a part in competition because i was good at programming. Subsequently, I understood that frontend it's not mine and i bacame interested another languages in backend because i like math and logical thinking and discovered a C# for myself.  
+I became to learn it because i want to help a humanity.  
 
 ## Contact details  
-c#
-private Junior CreateJunior()
-{
-  return new Junior()
-  {
-    Name = "Denys Butorin",  
-    Address = "Ukraine, Chernivtsi",  
-    DateOfBirth = "01.01.2004",
-    IsWantToWork = true
-  }
-}
+SQL
+CREATE TABLE Junior(
+    user_id GUID PRIMARY KEY,
+    username VARCHAR(50) NOT NULL,
+    date_of_birth DATETIME NOT NULL,
+    adress VARCHAR(100) NOT NULL
+);
+INSERT INTO users
+VALUES ('Denys Butorin', '01.01.2004', 'Ukraine, Chernivtsi'),
+    
 Email: denbutor@gmail.com  
 Telegram: https://t.me/licks_originally
-
 ## Education  
 
 - Chernivtsi National University, Computer Ingineering, bachelor degree (01.09.2021 - today)
