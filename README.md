@@ -18,7 +18,7 @@ CREATE TABLE Junior(
     date_of_birth DATETIME NOT NULL,
     adress VARCHAR(100) NOT NULL
 );
-INSERT INTO users
+INSERT INTO Junior
 VALUES ('Denys Butorin', '01.01.2004', 'Ukraine, Chernivtsi'),
 ```    
 Email: denbutor@gmail.com  
