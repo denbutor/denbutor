@@ -37,11 +37,7 @@ Worked as a promoter, courier, waiter, seller and tried to work on freelance as 
 - Front end: ``React`` ``HTML`` ``CSS`` ``JS`` ``WPF``  
 - Back end: ``EntityFramework`` ``ASP.NET Core`` ``ASP.NET Core Identity``  
 - Databases: ``SQLite`` ``MongoDB`` ``MySQL`` ``Microsoft SQL server``
--
-- 
-- 
--
-- Other: *Git, SOLID, Code refactoring, Design Patterns, Docker, Linux, Adobe Illustartor, MagicalVoxel, Aseprite, FL studio*
+- Other: *Git, SOLID, Code refactoring, Design Patterns, Docker*
 
 Languages: Ukrainian, English (Intermediate - Upper-Intermediate)  
 
