@@ -23,7 +23,7 @@ INSERT INTO Junior (user_id, username, date_of_birth, address)
 VALUES (NEWID(), 'Denys Butorin', '2004-01-01', 'Ukraine, Chernivtsi');
 ```    
 Email: denbutor@gmail.com  
-Telegram: https://t.me/licks_originally
+Telegram: https://t.me/denys_butorin
 ## Education  
 
 - Chernivtsi National University, Computer Ingineering (Computer Systems and Networks), Bachelor degree (01.09.2021 - today)
