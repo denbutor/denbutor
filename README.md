@@ -43,4 +43,4 @@ Languages: Ukrainian, English (Intermediate - Upper-Intermediate)
 
 ## Hobbies  
 
-PingPong, Gym, BascketBall, LitterBall
+PingPong, Gym, BascketBall, LiterBall
