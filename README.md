@@ -1,6 +1,6 @@
 ## Cover letter
 
-I’m A 3rd year student of Chernivtsi National University, in the field of Computer Ingineering, namely computer systems and networks. Qualified in web development, database designing and computer networks. 
+I’m A 4th year student of Chernivtsi National University, in the field of Computer Ingineering, namely computer systems and networks. Qualified in web development, database designing and computer networks. 
 I`m into work, responsible, capable to be backend and frontend developer and can take responsibility to lead the projects.
   
 ``I am finding a junior position``,  
@@ -34,13 +34,13 @@ Worked as a promoter, courier, waiter, seller and tried to work on freelance as 
 
 ## Overview of technologies, that I am experienced in
 
-- Front end: ``React`` ``HTML`` ``CSS`` ``JS`` ``WPF``  
-- Back end: ``EntityFramework`` ``ASP.NET Core`` ``ASP.NET Core Identity``  
-- Databases: ``SQLite`` ``MongoDB`` ``MySQL`` ``Microsoft SQL server``
+- Front end: ``React`` ``HTML`` ``CSS`` ``JS`` ``WPF``
+- Back end: ``Nest.js`` ``Express.js`` ``EntityFramework`` ``ASP.NET Core`` ``ASP.NET Core Identity`` 
+- Databases: ``SQLite`` ``PostgreSQL`` ``MSSQL Server``
 - Other: *Git, SOLID, Code refactoring, Design Patterns, Docker*
 
 Languages: Ukrainian, English (Intermediate - Upper-Intermediate)  
 
 ## Hobbies  
 
-PingPong, Gym, BascketBall, LiterBall
+PingPong, Gym, BascketBall, ♥LitterBall♥
