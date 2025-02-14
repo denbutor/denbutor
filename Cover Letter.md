@@ -3,7 +3,7 @@
 ## About me
 I’m A 4th year student and developer of Chernivtsi National University, in the field of Computer Ingineering, namely Computer Systems and Networks. Qualified in web development, database designing and computer networks. 
 
-I`m developer with experience in Python (FastAPI) and C# (.NET), web platform and desktop development. Worked with SQL and NoSQL databases and implemented microservices architecture for scalable solutions. Proficient in Docker for containerization, message brokers (Kafka and RabbitMQ) for event-driven communication, and Redis for caching to improve performance. Developed a freelancer platform and library management system, optimizing database queries and ensuring system efficiency. 
+I`m developer with experience in Python (FastAPI) web platform. Worked with SQL and NoSQL databases and implemented microservices architecture for scalable solutions. Proficient in Docker for containerization, message brokers (Kafka and RabbitMQ) for event-driven communication, and Redis for caching to improve performance. Developed a freelancer platform and library management system, optimizing database queries and ensuring system efficiency. 
   
 ``I am finding a Python developer position``, in company with creative and unusual ideas that I`ll implement!
 
