@@ -38,7 +38,7 @@ Computer Engineering (Computer Systems and Networks)
 Gained skills in web development, database design, computer networks and hardware.
    
 ## Work experience  
-Online Electronics Store``
+Online Electronics Store```
 I am developing a scalable e-commerce startup platform for electronics, built with Python, FastAPI, PostgreSQL, MongoDB, Redis, RabbitMQ, and Docker. It is optimized for high performance with Redis caching and Dockerized deployment.
 User authentication & authorization, Product catalog with search & filtering, Shopping cart & checkout, Order management & tracking, Payment integration, Admin panel for inventory control.
 
