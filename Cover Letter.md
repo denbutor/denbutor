@@ -1,14 +1,14 @@
 # Cover letter
 
 ## About me
-  I’m A 4th year student and developer of Chernivtsi National University, in the field of Computer Ingineering, namely Computer Systems and Networks. Qualified in web development, database designing and computer networks. 
+  I’m A 5th year student and developer of Chernivtsi National University, I have Bachelor's Degree in the field of Computer Ingineering, namely as Computer Systems and Networks. Qualified in web development, database designing and computer networks. I am currently studying for a master's degree at the same university, majoring in Software Engineering, namely as Systems software.
 
   I`m developer with experience in Python (FastAPI) web platform. Worked with SQL and NoSQL databases and implemented microservices architecture for scalable solutions. Proficient in Docker for containerization, message brokers (Kafka and RabbitMQ) for event-driven communication, and Redis for caching to improve performance. Developed a freelancer platform and library management system, optimizing database queries and ensuring system efficiency. 
   
   ``I am finding a Python developer position``, in company with creative and unusual ideas that I`ll implement!
 
 First interest in programming:
-  In 10th grade, I enthusiastically immersed myself in the world of programming. Encouraged by my teacher's recognition of my skills, I embarked on a competitive journey, eager to refine my expertise. The realization that I could implement my ideas to make the world a better place prompted me to explore more and more. Since then, I have dedicated myself to mastering the art of backend programming, driven by my problem-solving abilities and relentless pursuit of excellence. I am learning it because I want to contribute to humanity and prove to myself that I can achieve anything I set my mind to.
+  In 10th grade at school, I enthusiastically immersed myself in the world of programming. Encouraged by my teacher's recognition of my skills, I embarked on a competitive journey, eager to refine my expertise. The realization that I could implement my ideas to make the world a better place prompted me to explore more and more. Since then, I have dedicated myself to mastering the art of backend programming, driven by my problem-solving abilities and relentless pursuit of excellence. I am learning it because I want to contribute to humanity and prove to myself that I can achieve anything I set my mind to.
 
 ## Skills
 - BackEnd: ``Python (Fast API)``
@@ -36,6 +36,9 @@ VALUES (NEWID(), 'Denys Butorin', '2004-01-01', 'Ukraine, Chernivtsi - Kamianets
   Chernivtsi National University, September 2021 – June 2025
   Computer Engineering (Computer Systems and Networks)
   Gained skills in web development, database design, computer networks and hardware.
+  
+  Master's degree in Chernivtsi National University, September 2025 – December 2026
+  Software Engineering (Systems Software)
    
 ## Work experience  
 #### Online Electronics Store
